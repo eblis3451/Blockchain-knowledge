@@ -17,6 +17,8 @@ https://medium.com/@j.ohn10285/ubuntu%E5%BB%BA%E7%AB%8B%E7%A7%81%E6%9C%89%E9%8F%
 erc20 token建立</n>
 https://github.com/eblis3451/erc20-token
 
+更新智能合約且不置換地址的方法</n>
+https://github.com/eblis3451/Blockchain-knowledge/blob/main/example/%E6%9B%B4%E6%96%B0%E5%90%88%E7%B4%84.md
 
 
 <h1>區塊鏈相關專案</h1>
